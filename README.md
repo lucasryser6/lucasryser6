@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a data analyst with solid skills in Python and MySQL, capable of managing and analyzing large datasets to extract valuable insights. My experience includes Microsoft 365 administration and implementing effective technological solutions. Additionally, I have a background in marketing and communication, enabling me to understand client needs and translate them into technical solutions. I'm an effective communicator and possess strong project management skills, allowing me to lead teams and achieve goals efficiently and effectively.
+I'm a data analyst with solid skills in Python and capable of managing and analyzing large datasets to extract valuable insights. My experience includes Microsoft 365 administration and implementing effective technological solutions. Additionally, I have a background in marketing and communication, enabling me to understand client needs and translate them into technical solutions. I'm an effective communicator and possess strong project management skills, allowing me to lead teams and achieve goals efficiently and effectively.
 
 ## Skills
 
