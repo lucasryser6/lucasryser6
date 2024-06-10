@@ -1,4 +1,4 @@
-# ¡Hola! Soy Lucas Ryser]
+# ¡Hola! Soy Lucas Ryser
 
 ## Acerca de mí
 
