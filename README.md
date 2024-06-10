@@ -1,21 +1,21 @@
-# ¡Hola! Soy Lucas Ryser
+# Hi there! 👋 I'm Lucas Ryser
 
-## Acerca de mí
+## About Me
 
-Soy un analista de datos con habilidades sólidas en Python y MySQL, capaz de gestionar y analizar grandes conjuntos de datos para extraer información valiosa. Mi experiencia incluye la administración de Microsoft 365 y la implementación de soluciones tecnológicas efectivas. Además, tengo experiencia en marketing y comunicación, lo que me permite comprender las necesidades del cliente y traducirlas en soluciones técnicas. Soy un comunicador eficaz y poseo habilidades sólidas en la gestión de proyectos, lo que me permite liderar equipos y alcanzar objetivos de manera eficiente y efectiva.
+I'm a data analyst with solid skills in Python and MySQL, capable of managing and analyzing large datasets to extract valuable insights. My experience includes Microsoft 365 administration and implementing effective technological solutions. Additionally, I have a background in marketing and communication, enabling me to understand client needs and translate them into technical solutions. I'm an effective communicator and possess strong project management skills, allowing me to lead teams and achieve goals efficiently and effectively.
 
-## Habilidades
+## Skills
 
-- **Análisis de Datos:** Experiencia en el manejo y análisis de grandes conjuntos de datos utilizando Power Bi,Python y MySQL.
-- **Administración de Microsoft 365:** Capacidad para administrar y configurar entornos de Microsoft 365.
-- **Implementación de Soluciones Tecnológicas:** Experiencia en implementar soluciones tecnológicas para mejorar la eficiencia y productividad.
-- **Marketing y Comunicación:** Capacidad para comprender las necesidades del cliente y traducirlas en soluciones técnicas efectivas.
-- **Gestión de Proyectos:** Habilidades sólidas en la gestión de proyectos, liderazgo de equipos y cumplimiento de objetivos.
+- 📊 **Data Analysis:** Experience in handling and analyzing large datasets using Power BI, Python, and MySQL.
+- 💼 **Microsoft 365 Administration:** Ability to manage and configure Microsoft 365 environments.
+- 🚀 **Technology Solutions Implementation:** Experience in implementing technological solutions to improve efficiency and productivity.
+- 📢 **Marketing and Communication:** Ability to understand client needs and translate them into effective technical solutions.
+- 📈 **Project Management:** Strong project management skills, team leadership, and goal achievement.
 
-## Contacto
+## Contact
 
-- **LinkedIn:** [https://www.linkedin.com/in/lucas-ryser-16190728a/](enlace)
-- **Correo Electrónico:** [lucasryser4k@gmail.com](mailto:tu@email.com)
-- **Teléfono:** [+54 3512019995]
+- 🔗 **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/lucas-ryser-16190728a/)
+- ✉️ **Email:** [lucasryser4k@gmail.com](mailto:lucasryser4k@gmail.com)
+- 📞 **Phone:** [+54 3512019995]
 
 
